@@ -4,4 +4,4 @@ spring:
     platform: postgres
     url: jdbc:postgresql://localhost:5432/cloud_test
     username: postgres
-    password: ilkin900
+    password: ilkin900_test
